@@ -1,7 +1,7 @@
 # Flutter UI
 ### Design
 
-![design](design/design.PNG)
+![design](ui/design.JPG)
 A new Flutter project.
 
 ## Getting Started
